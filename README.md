@@ -38,6 +38,7 @@ Example `package.json` :
 ```
 
 
+
 ```js
 var UserscriptHeader = require('userscript-header');
 
