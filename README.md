@@ -94,6 +94,7 @@ console.log(header.toString());
 // ==/UserScript==
 
 
+
 ```
 
 When present, `package.userscript.{name|version|description|author}`, respectively override `package.{name|version|description|author}`.
