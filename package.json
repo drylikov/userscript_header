@@ -1,0 +1,16 @@
+{
+    "name": "userscript_header",
+    "version": "0.2.0",
+    "author": "drylikov",
+    "description": "Generate userscript header from package.json",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:drylikov/userscript_header.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": ""
+        }
+    ]
+}
