@@ -12,6 +12,7 @@ Generate userscript header from package.json.
 Example `package.json` :
 
 ```json
+
 {
   "name": "my-userscript",
   "version": "0.1.0",
