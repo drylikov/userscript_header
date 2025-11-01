@@ -16,6 +16,7 @@ Generate userscript header from package.json.
 Example `package.json` :
 
 
+
 ```json
 
 {
