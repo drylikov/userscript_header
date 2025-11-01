@@ -92,6 +92,7 @@ console.log(header.toString());
 // @grant GM_setClipboard
 // @run-at document-start
 // ==/UserScript==
+
 ```
 
 When present, `package.userscript.{name|version|description|author}`, respectively override `package.{name|version|description|author}`.
