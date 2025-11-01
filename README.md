@@ -8,6 +8,7 @@
 Generate userscript header from package.json.
 
 
+
 ### Usage
 
 Example `package.json` :
