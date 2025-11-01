@@ -40,7 +40,7 @@ Example `package.json` :
 
 
 ```js
-var UserscriptHeader = require('userscript-header');
+var UserscriptHeader = require('userscript_header');
 
 var userscriptHeader = UserscriptHeader.fromPackage('./package.json');
 
