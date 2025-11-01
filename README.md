@@ -19,6 +19,7 @@ Example `package.json` :
 
 ```json
 
+
 {
   "name": "my-userscript",
   "version": "0.1.0",
