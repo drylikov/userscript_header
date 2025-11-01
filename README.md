@@ -97,4 +97,5 @@ console.log(header.toString());
 
 ```
 
+
 When present, `package.userscript.{name|version|description|author}`, respectively override `package.{name|version|description|author}`.
